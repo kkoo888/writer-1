@@ -1,6 +1,13 @@
 # .openclaw 内部文件（只保留 SOUL.md）
 .openclaw/
-!SOUL.md
+agents/
+memory/
+AGENTS.md
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+TOOLS.md
+USER.md
 
 # 系统文件
 .DS_Store
