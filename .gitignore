@@ -1,0 +1,23 @@
+# .openclaw 内部文件（只保留 SOUL.md）
+.openclaw/
+!SOUL.md
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+node_modules/
