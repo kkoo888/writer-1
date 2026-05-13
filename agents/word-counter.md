@@ -23,14 +23,17 @@ model: inherit
 ### 2.2 统计脚本
 
 ```bash
-# 统计单个章节字数
-python3 /root/.openclaw/workspace/scripts/word_count.py "正文/第X章·标题.md"
+# 统计单个章节字数（默认目标 2500 字）
+python3 /root/.openclaw/workspace/scripts/word_count.py "正文/第N章 标题.md"
 
 # 统计所有章节字数
 python3 /root/.openclaw/workspace/scripts/word_count.py --all
 
-# 统计指定目录
-python3 /root/.openclaw/workspace/scripts/word_count.py --dir "正文/"
+# 自定义目标字数
+python3 /root/.openclaw/workspace/scripts/word_count.py --target 2500 --tolerance 0.1
+
+# JSON 输出
+python3 /root/.openclaw/workspace/scripts/word_count.py --all --json
 ```
 
 ## 3. 输出格式

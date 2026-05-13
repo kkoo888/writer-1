@@ -46,7 +46,7 @@ def count_chinese_words(text: str) -> dict:
     }
 
 
-def count_file(filepath: str, target: int = 2300, tolerance: float = 0.1) -> dict:
+def count_file(filepath: str, target: int = 2500, tolerance: float = 0.1) -> dict:
     """统计单个文件字数"""
     with open(filepath, 'r', encoding='utf-8') as f:
         text = f.read()
@@ -78,7 +78,7 @@ def count_file(filepath: str, target: int = 2300, tolerance: float = 0.1) -> dic
     }
 
 
-def count_directory(directory: str, target: int = 2300, tolerance: float = 0.1) -> dict:
+def count_directory(directory: str, target: int = 2500, tolerance: float = 0.1) -> dict:
     """统计目录下所有章节"""
     files = sorted(glob.glob(os.path.join(directory, "*.md")))
     
@@ -118,7 +118,7 @@ def main():
         sys.exit(1)
     
     json_output = '--json' in args
-    target = 2300
+    target = 2500
     tolerance = 0.1
     
     # 检查自定义目标
