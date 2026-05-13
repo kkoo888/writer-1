@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "title": "末日求生游戏，我和女孩们的度假生活",
+    "genre": "末日求生",
+    "created_at": "2026-05-13",
+    "target_words": 4140000,
+    "target_chapters": 600,
+    "golden_finger_name": "",
+    "golden_finger_type": "",
+    "golden_finger_style": "",
+    "core_selling_points": "小木屋求生,末日度假,多女主互动",
+    "protagonist_structure": "单主角",
+    "heroine_config": "多女主",
+    "heroine_names": "",
+    "heroine_role": "",
+    "co_protagonists": "",
+    "co_protagonist_roles": "",
+    "antagonist_tiers": "",
+    "world_scale": "全球末日，每人一间小木屋为据点",
+    "factions": "",
+    "power_system_type": "",
+    "social_class": "",
+    "resource_distribution": "",
+    "gf_visibility": "",
+    "gf_irreversible_cost": "",
+    "target_reader": "",
+    "platform": "",
+    "currency_system": "",
+    "currency_exchange": "",
+    "sect_hierarchy": "",
+    "cultivation_chain": "",
+    "cultivation_subtiers": "",
+    "words_per_chapter": 2300,
+    "words_tolerance": 0.1,
+    "writing_style": "爽文+幽默+热血+温馨，风趣搞笑，调起读者情绪"
+  },
+  "progress": {
+    "current_chapter": 0,
+    "total_words": 0,
+    "last_updated": "2026-05-13 22:21:18",
+    "volumes_completed": [],
+    "current_volume": 1,
+    "volumes_planned": [
+      {
+        "volume": 1,
+        "chapters_range": "1-60",
+        "title": "末日降临",
+        "status": "planned"
+      },
+      {
+        "volume": 2,
+        "chapters_range": "61-120",
+        "title": "废土建家",
+        "status": "planned"
+      },
+      {
+        "volume": 3,
+        "chapters_range": "121-180",
+        "title": "终焉之战",
+        "status": "planned"
+      }
+    ]
+  },
+  "protagonist_state": {
+    "name": "星辰",
+    "power": {
+      "realm": "",
+      "layer": 1,
+      "bottleneck": ""
+    },
+    "location": {
+      "current": "",
+      "last_chapter": 0
+    },
+    "golden_finger": {
+      "name": "安全区",
+      "level": 1,
+      "cooldown": 0,
+      "skills": [
+        "无敌护罩展开",
+        "单向通行",
+        "智能识别同伴",
+        "虚空契约签订",
+        "远程感知符合条件的幸存者",
+        "契约传送（金色光茧）",
+        "契约者自由出入安全区",
+        "契约者心灵感应",
+        "契约即永恒忠诚（签订瞬间忠诚值拉满）",
+        "后宫和谐（女主们互相认可不内斗）",
+        "异种族感知（感知附近兽耳娘）",
+        "种族外交（通过契约者建立种族关系）",
+        "后宫管理（女主们和谐共处）",
+        "种族外交（人族+异种族联盟）",
+        "末日觉醒特殊体质（精力无限）"
+      ]
+    },
+    "attributes": {}
+  },
+  "relationships": {},
+  "disambiguation_warnings": [],
+  "disambiguation_pending": [],
+  "world_settings": {
+    "power_system": [
+      "个人强化（F-S级）",
+      "据点强化（小木屋系统）",
+      "兽核系统",
+      "天灾结晶系统",
+      "每日外出时间系统（初始2小时）",
+      "外出时间延长机制（木屋升级/体质强化/装备/安全区扩展）",
+      "据点5阶25级升级体系（木屋→石屋→堡垒→庄园→要塞）",
+      "女主天赋技能系统（生产/制造/交易/辅助/战斗/研发六大类）",
+      "天赋协同效果（特定女主组合触发额外加成）"
+    ],
+    "factions": [
+      "散人玩家",
+      "小型团队",
+      "聚落联盟",
+      "掠夺者",
+      "官方残余",
+      "猫族（敏捷灵巧，废墟城市）",
+      "狼族（忠诚勇猛，森林深处）",
+      "狐族（聪明妩媚，山丘洞穴）",
+      "兔族（温顺胆小，平原草地）",
+      "龙族（强大高傲，火山区域）",
+      "蛇族（神秘冷艳，沼泽湿地）",
+      "鸟族（自由奔放，高山悬崖）",
+      "鱼族（温柔如水，海岸湖泊）"
+    ],
+    "locations": [
+      "安全区（星辰小木屋）",
+      "野外资源区",
+      "异兽巢穴",
+      "天灾频发区",
+      "聚落市场"
+    ]
+  },
+  "plot_threads": {
+    "active_threads": [],
+    "foreshadowing": []
+  },
+  "review_checkpoints": [],
+  "chapter_meta": {},
+  "strand_tracker": {
+    "last_quest_chapter": 0,
+    "last_fire_chapter": 0,
+    "last_constellation_chapter": 0,
+    "current_dominant": "quest",
+    "chapters_since_switch": 0,
+    "history": []
+  }
+}
